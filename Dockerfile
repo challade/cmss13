@@ -1,5 +1,5 @@
 # TODO: Use an .envfile and make everyone use it instead
-ARG BYOND_BASE_IMAGE=ubuntu:focal
+ARG BYOND_BASE_IMAGE=ubuntu:20.04
 ARG UTILITY_BASE_IMAGE=alpine:3
 ARG PROJECT_NAME=colonialmarines
 ARG BYOND_MAJOR=514
